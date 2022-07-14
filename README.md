@@ -56,7 +56,7 @@ Acessar o site do [Spring Initializr](https://start.spring.io/)
  - `H2`
  - `Security`
 
-> Ao clicar em `GENERETE ` que baixar o projeto renomear o projeto com o nome `backend` e mover para a pasta dsmeta
+> Ao clicar em `GENERETE ` que baixar o projeto renomear o projeto com o nome `backend` e mover para a pasta dsmeta dentro da pasta backend
 
 # Abrir projeto no SpringToolSuite4
 
